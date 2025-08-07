@@ -353,7 +353,7 @@ const whatsappBtn = document.getElementById('whatsapp-btn');
 if (whatsappBtn) {
     // Configuración del WhatsApp
     const whatsappConfig = {
-        phoneNumber: '5215512345678', // Cambia por tu número (código país + número sin espacios ni símbolos)
+        phoneNumber: '525615982902', // Tu número actualizado (código país México + tu número)
         message: '¡Hola! Me interesa conocer más sobre sus servicios contables. ¿Podrían brindarme información?'
     };
     
